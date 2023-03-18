@@ -95,7 +95,7 @@
     "@rnx-kit/dep-check": "1.14.0",
     "@tsconfig/react-native": "2.0.3",
     "@types/i18n-js": "3.8.3",
-    "@types/jest": "29.4.0",
+    "@types/jest": "29.5.0",
     "@types/lodash": "4.14.191",
     "@types/react-native": "0.70.8",
     "@types/react-test-renderer": "18.0.0",
